@@ -1,25 +1,19 @@
 export const heroData = {
-  name: 'John Doe',
+  name: 'Léa Prémont',
   title: 'Full-Stack Developer',
-  description: 'I build scalable web applications and transform raw data into meaningful insights that drive business success.',
-  profilePicture: 'https://example.com/profilepic.jpg',
+  description: 'Bridging Simulation, Interactive Technology, and Software Engineering – Full-Stack Engineer with a Passion for Immersive Experiences.',
+  profilePicture: 'src/assets/profile_zoomed.jpg',
   skills: [
-    'JavaScript',
-    'React',
-    'Node.js',
-    'SQL',
+    'C++',
+    'C#',
     'Python',
-    'Power BI',
-    'DAX',
-    'ETL',
-    'Data Modeling',
-    'API Development',
-    'Cloud Computing',
-    'Machine Learning'
+    'Unity',
+    'Unigine',
+    'VR/AR/XR'
   ],
   contact: {
-    github: 'https://github.com/johndoe',
-    linkedin: 'https://www.linkedin.com/in/johndoe/',
-    email: 'johndoe@example.com'
+    github: 'https://github.com/llleea',
+    linkedin: 'https://www.linkedin.com/in/lea-premont/',
+    email: 'premont.lea@gmail.com'
   }
 };

@@ -1,12 +1,12 @@
 export const config = {
-  siteTitle: 'John Doe Portfolio',
-  description: 'Hi, I am John Doe, a passionate web developer and data analyst. I thrive on solving problems and building innovative solutions with modern technology.',
-  author: 'John Doe',
-  contactEmail: 'johndoe@example.com',
-  keywords: 'portfolio, business intelligence, data analysis, Power BI Reports, Software Engineer, Web Developer',
+  siteTitle: 'Léa Prémont Portfolio',
+  description: 'Bridging Simulation, Interactive Technology, and Software Engineering – Full-Stack Engineer with a Passion for Immersive Experiences.',
+  author: 'Léa Prémont',
+  contactEmail: 'premont.lea@gmail.com',
+  keywords: 'portfolio, Full Stack, Software Engineer, Web Developer',
   favicon: '/favicon.svg',
   social: {
     linkedin: 'https://www.linkedin.com/in/johndoe/',
-    github: 'https://github.com/johndoe'
+    github: 'https://github.com/llleea'
   }
 };
